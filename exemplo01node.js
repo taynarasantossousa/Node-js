@@ -1,0 +1,6 @@
+console.log("----Dados Cadastrais----")
+console.log("Nome: Ruan Araujo dos Santos")
+console.log("Aula de Node com Banco de Dados")
+console.log("Email: ruandossantos1604@gmail.com")
+console.log("Github: www.github.com/ruantes")
+console.log("LinkedIn: www.linkedin.com/jailsoncostadossantos")
